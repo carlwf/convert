@@ -1,14 +1,18 @@
-## Convert
+### Convert
 
 A Go package for converting between different units of measurement.
 
-### Installation
+#### Introduction
+
+Convert provides an interface for performing units of measurement conversions based on information read from JSON files.
+
+#### Installation
 
 ```
 go get github.com/carlwf/convert
 ```
 
-### Usage
+#### Usage
 
 Basic Conversion example:
 
