@@ -1,0 +1,55 @@
+{
+    "category": "Acceleration",
+    "description": "Acceleration is the rate of change of velocity with respect to time. It is a measure of the force needed to accelerate an object from rest.",
+    "baseunit": "meter/second²",
+    "units": [
+        {
+            "name": "meter/second²",
+            "symbol": "m/s²",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "centimeter/second²",
+            "symbol": "cm/s²",
+            "factor": 0.01,
+            "offset": 0
+        },
+        {
+            "name": "foot/second²",
+            "symbol": "ft/s²",
+            "factor": 0.3048,
+            "offset": 0
+        },
+        {
+            "name": "inch/second²",
+            "symbol": "in/s²",
+            "factor": 0.0254,
+            "offset": 0
+        },
+        {
+            "name": "gravity",
+            "symbol": "g",
+            "factor": 9.80665,
+            "offset": 0
+        },
+        {
+            "name": "millimeter/second²",
+            "symbol": "mm/s²",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "kilometer/hour²",
+            "symbol": "km/h²",
+            "factor": 1000000,
+            "offset": 0
+        },
+        {
+            "name": "mile/hour second",
+            "symbol": "mi/(h.s)",
+            "factor": 447.04,
+            "offset": 0
+        }
+    ]
+}

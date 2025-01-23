@@ -1,0 +1,67 @@
+{
+    "category": "Computer",
+    "description": "Units of data used to measure the amount of digital information or data in a computer system.",
+    "baseunit": "byte",
+    "units": [
+        {
+            "name": "byte",
+            "symbol": "byte",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "bit",
+            "symbol": "bit",
+            "factor": 0.125,
+            "offset": 0
+        },
+        {
+            "name": "exabyte",
+            "symbol": "EB",
+            "factor": 1152921504606846976,
+            "offset": 0
+        },
+        {
+            "name": "gigabyte",
+            "symbol": "GB",
+            "factor": 1073741824,
+            "offset": 0
+        },
+        {
+            "name": "kilobyte",
+            "symbol": "kB",
+            "factor": 1024,
+            "offset": 0
+        },
+        {
+            "name": "megabyte",
+            "symbol": "MB",
+            "factor": 1048576,
+            "offset": 0
+        },
+        {
+            "name": "terabyte",
+            "symbol": "TB",
+            "factor": 1099511627776,
+            "offset": 0
+        },
+        {
+            "name": "petabyte",
+            "symbol": "PB",
+            "factor": 1125899906842624,
+            "offset": 0
+        },
+        {
+            "name": "zettabyte",
+            "symbol": "ZB",
+            "factor": 1180591620717411300000,
+            "offset": 0
+        },
+        {
+            "name": "yottabyte",
+            "symbol": "YB",
+            "factor": 1208925819614629200000000,
+            "offset": 0
+        }
+    ]
+}

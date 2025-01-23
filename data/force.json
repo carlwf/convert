@@ -1,0 +1,55 @@
+{
+    "category": "Force",
+    "description": "Force is a scalar measurement of the force applied to an object.",
+    "baseunit": "newton",
+    "units": [
+        {
+            "name": "newton",
+            "symbol": "N",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "dynes",
+            "symbol": "dyn",
+            "factor": 0.0000100,
+            "offset": 0
+        },
+        {
+            "name": "gram force",
+            "symbol": "gf",
+            "factor": 0.00980665,
+            "offset": 0
+        },
+        {
+            "name": "kilogram force",
+            "symbol": "kgf",
+            "factor": 9.80665,
+            "offset": 0
+        },
+        {
+            "name": "kilonewton",
+            "symbol": "kN",
+            "factor": 1000,
+            "offset": 0
+        },
+        {
+            "name": "millinewton",
+            "symbol": "mN",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "ounce-force",
+            "symbol": "ozf",
+            "factor": 0.2780139,
+            "offset": 0
+        },
+        {
+            "name": "pounds-force",
+            "symbol": "lbf",
+            "factor": 4.448222,
+            "offset": 0
+        }
+    ]
+}

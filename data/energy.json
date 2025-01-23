@@ -1,0 +1,216 @@
+{
+    "category": "Energy",
+    "description": "Energy is the capacity of a system to do work.",
+    "baseunit": "joule",
+    "units": [
+        {
+            "name": "joule",
+            "symbol": "J",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "attojoule",
+            "symbol": "aJ",
+            "factor": 1e-18,
+            "offset": 0
+        },
+        {
+            "name": "BTU",
+            "symbol": "BTU",
+            "factor": 1055.056,
+            "offset": 0
+        },
+        {
+            "name": "calorie",
+            "symbol": "cal",
+            "factor": 4.184,
+            "offset": 0
+        },
+        {
+            "name": "dyne-centimeter",
+            "symbol": "dyn·cm",
+            "factor": 1e-5,
+            "offset": 0
+        },
+        {
+            "name": "electron volts",
+            "symbol": "eV",
+            "factor": 1.60217733e-19,
+            "offset": 0
+        },
+        {
+            "name": "erg",
+            "symbol": "erg",
+            "factor": 1e-7,
+            "offset": 0
+        },
+        {
+            "name": "gigajoule",
+            "symbol": "GJ",
+            "factor": 1000000000,
+            "offset": 0
+        },
+        {
+            "name": "gigawatt-hour",
+            "symbol": "GWh",
+            "factor": 3600000000000,
+            "offset": 0
+        },
+        {
+            "name": "gram force-centimeter",
+            "symbol": "gf·cm",
+            "factor": 0.0000981,
+            "offset": 0
+        },
+        {
+            "name": "horsepower hour",
+            "symbol": "hph",
+            "factor": 0.7456999
+        },
+        {
+            "name": "kilocalorie",
+            "symbol": "kcal",
+            "factor": 4184,
+            "offset": 0
+        },
+        {
+            "name": "kiloelectron volts",
+            "symbol": "KeV",
+            "factor": 1.60217733e-16,
+            "offset": 0
+        },
+        {
+            "name": "kilojoule",
+            "symbol": "kJ",
+            "factor": 1000,
+            "offset": 0
+        },
+        {
+            "name": "kilowatt-hour",
+            "symbol": "kWh",
+            "factor": 3600000,
+            "offset": 0
+        },
+        {
+            "name": "megaelectron volts",
+            "symbol": "MeV",
+            "factor": 1.60217733e-13,
+            "offset": 0
+        },
+        {
+            "name": "megajoule",
+            "symbol": "MJ",
+            "factor": 1000000,
+            "offset": 0
+        },
+        {
+            "name": "megawatt-hour",
+            "symbol": "MWh",
+            "factor": 3600000000,
+            "offset": 0
+        },
+        {
+            "name": "microjoule",
+            "symbol": "µJ",
+            "factor": 1e-6,
+            "offset": 0
+        },
+        {
+            "name": "millijoule",
+            "symbol": "mJ",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "nanojoule",
+            "symbol": "nJ",
+            "factor": 1e-9,
+            "offset": 0
+        },
+        {
+            "name": "newton-meter",
+            "symbol": "N·m",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "ounce force-inch",
+            "symbol": "ozf·in",
+            "factor": 0.0070616,
+            "offset": 0
+        },
+        {
+            "name": "pound force-foot",
+            "symbol": "lbf·ft",
+            "factor": 1.355818,
+            "offset": 0
+        },
+        {
+            "name": "pound force-inch",
+            "symbol": "lbf·in",
+            "factor": 0.1129848290276167,
+            "offset": 0
+        },
+        {
+            "name": "poundal-foot",
+            "symbol": "pdl·ft",
+            "factor": 0.04214014,
+            "offset": 0
+        },
+        {
+            "name": "therm",
+            "symbol": "thm",
+            "factor": 1055056,
+            "offset": 0
+        },
+        {
+            "name": "watt-hour",
+            "symbol": "Wh",
+            "factor": 3600,
+            "offset": 0
+        },
+        {
+            "name": "watt-second",
+            "symbol": "Ws",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "nanowatt-hour",
+            "symbol": "nWh",
+            "factor": 3600000000000000,
+            "offset": 0
+        },
+        {
+            "name": "picojoule",
+            "symbol": "pJ",
+            "factor": 1e-12,
+            "offset": 0
+        },
+        {
+            "name": "terawatt-hour",
+            "symbol": "TWh",
+            "factor": 3600000000000,
+            "offset": 0
+        },
+        {
+            "name": "kiloBTU",
+            "symbol": "kBTU",
+            "factor": 1055056,
+            "offset": 0
+        },
+        {
+            "name": "foot-pounds",
+            "symbol": "ft·lb",
+            "factor": 1.355818,
+            "offset": 0
+        },
+        {
+            "name": "terajoule",
+            "symbol": "TJ",
+            "factor": 1e-12,
+            "offset": 0
+        }
+    ]
+}

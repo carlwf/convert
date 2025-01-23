@@ -1,0 +1,25 @@
+{
+	"category": "Concentration",
+	"description": "Concentration is a measure of the amount of a substance in a mixture.",
+	"baseunit": "parts per million",
+	"units": [
+		{
+			"name": "parts per million",
+			"symbol": "ppm",
+			"factor": 1,
+			"offset": 0
+		},
+		{
+			"name": "parts per billion",
+			"symbol": "ppb",
+			"factor": 1000,
+			"offset": 0
+		},
+		{
+			"name": "parts per trillion",
+			"symbol": "ppt",
+			"factor": 1000000,
+			"offset": 0
+		}
+	]
+}

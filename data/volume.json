@@ -1,0 +1,126 @@
+{
+    "category": "Volume",
+    "description": "Volume is a measure of the amount of space occupied by a three-dimensional object or container.",
+    "baseunit": "cubic meter",
+    "units": [
+        {
+            "name": "cubic meter",
+            "symbol": "m³",
+            "factor": 1
+        },
+        {
+            "name": "CC",
+            "symbol": "cc",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "cubic foot",
+            "symbol": "ft³",
+            "factor": 0.0283168,
+            "offset": 0
+        },
+        {
+            "name": "cubic inch",
+            "symbol": "in³",
+            "factor": 0.0000163871,
+            "offset": 0
+        },
+        {
+            "name": "cubic yard",
+            "symbol": "yd³",
+            "factor": 0.764555,
+            "offset": 0
+        },
+        {
+            "name": "cup",
+            "symbol": "cup",
+            "factor": 0.000236588,
+            "offset": 0
+        },
+        {
+            "name": "dram",
+            "symbol": "dr",
+            "factor": 0.0000037,
+            "offset": 0
+        },
+        {
+            "name": "drop",
+            "symbol": "drop",
+            "factor": 0.0000001,
+            "offset": 0
+        },
+        {
+            "name": "gallon (US)",
+            "symbol": "gal",
+            "factor": 0.00378541,
+            "offset": 0
+        },
+        {
+            "name": "gallon (UK)",
+            "symbol": "gal",
+            "factor": 0.00454609,
+            "offset": 0
+        },
+        {
+            "name": "liter",
+            "symbol": "l",
+            "factor": 0.0000010,
+            "offset": 0
+        },
+        {
+            "name": "minim (US)",
+            "symbol": "",
+            "factor": 0.00000069,
+            "offset": 0
+        },
+        {
+            "name": "minim (UK)",
+            "symbol": "",
+            "factor": 0.000000568,
+            "offset": 0
+        },
+        {
+            "name": "ounce (US)",
+            "symbol": "oz",
+            "factor": 0.0000296,
+            "offset": 0
+        },
+        {
+            "name": "ounce (UK)",
+            "symbol": "oz",
+            "factor": 0.0000284,
+            "offset": 0
+        },
+        {
+            "name": "pint (US)",
+            "symbol": "pt",
+            "factor": 0.0004732,
+            "offset": 0
+        },
+        {
+            "name": "pint (UK)",
+            "symbol": "pt",
+            "factor": 0.0005683,
+            "offset": 0
+        },
+        {
+            "name": "quart",
+            "symbol": "qt",
+            "factor": 0.000946353,
+            "offset": 0
+        },
+        {
+            "name": "tablespoon",
+            "symbol": "tbsp",
+            "factor": 0.0000147868,
+            "offset": 0
+        },
+        {
+            "name": "teaspoon",
+            "symbol": "tsp",
+            "factor": 0.00000492892,
+            "offset": 0
+        }
+    ]
+}

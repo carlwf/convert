@@ -1,0 +1,38 @@
+{
+    "category": "Angle",
+    "description": "Angle is a measurement of the position of a point on a circle or sphere relative to the equatorial plane.",
+    "baseunit": "degree",
+    "source": "system",
+    "units": [
+        {
+            "name": "degrees",
+            "symbol": "°",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "radians",
+            "symbol": "rad",
+            "factor": 57.296,
+            "offset": 0
+        },
+        {
+            "name": "gradians",
+            "symbol": "grad",
+            "factor": 0.9,
+            "offset": 0
+        },
+        {
+            "name": "arcminutes",
+            "symbol": "'",
+            "factor": 0.016666667,
+            "offset": 0
+        },
+        {
+            "name": "seconds of arc",
+            "symbol": "\"",
+            "factor": 0.000277778,
+            "offset": 0
+        }
+    ]
+}

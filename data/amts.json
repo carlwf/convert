@@ -1,0 +1,43 @@
+{
+    "category": "Moles",
+    "description": "Moles are the basic unit of measurement for the amount of a substance, normally a chemical element or compound. A mole is equal to 6.022 x 10^23 atoms.",
+    "baseunit": "mole",
+    "units": [
+        {
+            "name": "mole",
+            "symbol": "mol",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "kilomole",
+            "symbol": "kmol",
+            "factor": 1000,
+            "offset": 0
+        },
+        {
+            "name": "micromole",
+            "symbol": "µmol",
+            "factor": 0.000001,
+            "offset": 0
+        },
+        {
+            "name": "nanomole",
+            "symbol": "nmol",
+            "factor": 0.000000001,
+            "offset": 0
+        },
+        {
+            "name": "picomole",
+            "symbol": "pmol",
+            "factor": 0.000000000001,
+            "offset": 0
+        },
+        {
+            "name": "millimole",
+            "symbol": "mmol",
+            "factor": 0.001,
+            "offset": 0
+        }
+    ]
+}

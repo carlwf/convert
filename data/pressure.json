@@ -1,0 +1,121 @@
+{
+    "category": "Pressure",
+    "description": "Pressure is the force applied to a surface per unit area",
+    "baseunit": "Pascal",
+    "units": [
+        {
+            "name": "Pascal",
+            "symbol": "Pa",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "atmosphere",
+            "symbol": "atm",
+            "factor": 101325,
+            "offset": 0
+        },
+        {
+            "name": "Bar",
+            "symbol": "bar",
+            "factor": 100000,
+            "offset": 0
+        },
+        {
+            "name": "centimeter of mercury",
+            "symbol": "cmHg",
+            "factor": 1333.2236842105263,
+            "offset": 0
+        },
+        {
+            "name": "dyne per centimeter²",
+            "symbol": "dyn/cm²",
+            "factor": 0.1,
+            "offset": 0
+        },
+        {
+            "name": "inch of mercury",
+            "symbol": "inHg",
+            "factor": 3386.388157894737,
+            "offset": 0
+        },
+        {
+            "name:": "kilogram per centimeter²",
+            "symbol": "kg/cm²",
+            "factor": 98066.5000000,
+            "offset": 0
+        },
+        {
+            "name": "kilogram per m²",
+            "symbol": "kg/m²",
+            "factor": 9.8066500,
+            "offset": 0
+        },
+        {
+            "name": "kilopascal",
+            "symbol": "kPa",
+            "factor": 1000,
+            "offset": 0
+        },
+        {
+            "name": "megapascal",
+            "symbol": "MPa",
+            "factor": 1000000.0000000,
+            "offset": 0
+        },
+        {
+            "name": "microbar",
+            "symbol": "µbar",
+            "factor": 0.1,
+            "offset": 0
+        },
+        {
+            "name": "millibar",
+            "symbol": "mbar",
+            "factor": 100,
+            "offset": 0
+        },
+        {
+            "name": "millimeter of mercury",
+            "symbol": "mmHg",
+            "factor": 133.32236842105263,
+            "offset": 0
+        },
+        {
+            "name": "pound per foot²",
+            "symbol": "psf",
+            "factor": 47.8802590,
+            "offset": 0
+        },
+        {
+            "name": "pound per inch²",
+            "symbol": "psi",
+            "factor": 6894.757293168361,
+            "offset": 0
+        },
+        {
+            "name": "PSI",
+            "symbol": "psi",
+            "factor": 6894.757293168361,
+            "offset": 0
+        },
+        {
+            "name": "ton per foot²",
+            "symbol": "tf",
+            "factor": 95760.5179600,
+            "offset": 0
+        },
+        {
+            "name": "ton per inch²",
+            "symbol": "ti",
+            "factor": 13789514.5900000,
+            "offset": 0
+        },
+        {
+            "name": "torr",
+            "symbol": "torr",
+            "factor": 133.32236842105263,
+            "offset": 0
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+	"category": "Density",
+	"description": "Density is the mass per unit volume of a substance.",
+	"baseunit": "kilogram per meter³",
+	"units": [
+		{
+			"name": "kilogram per meter³",
+			"symbol": "kg/m³",
+			"factor": 1,
+			"offset": 0
+		},
+		{
+			"name": "kilogram per liter",
+			"symbol": "kg/l",
+			"factor": 1000,
+			"offset": 0
+		},
+		{
+			"name": "gram per centimeter³",
+			"symbol": "g/cm³",
+			"factor": 1000,
+			"offset": 0
+		},
+		{
+			"name": "milligram per meter³",
+			"symbol": "mg/m³",
+			"factor": 1e-6,
+			"offset": 0
+		},
+		{
+			"name": "ounce per gallon",
+			"symbol": "oz/gal",
+			"factor": 7.4891517,
+			"offset": 0
+		},
+		{
+			"name": "pound per foot³",
+			"symbol": "lb/ft³",
+			"factor": 16.0184634,
+			"offset": 0
+		},
+		{
+			"name": "pound per inch³",
+			"symbol": "lb/in³",
+			"factor": 27679.9047100,
+			"offset": 0
+		}
+	]
+}

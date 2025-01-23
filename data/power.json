@@ -1,0 +1,85 @@
+{
+    "category": "Power",
+    "description": "Power is a measure of the rate at which energy is transferred from one place to another.",
+    "baseunit": "watt",
+    "units": [
+        {
+            "name": "watt",
+            "symbol": "W",
+            "factor": 1.0,
+            "offset": 0.0
+        },
+        {
+            "name": "BTU per hour",
+            "symbol": "Btu/h",
+            "factor": 0.29307107,
+            "offset": 0.0
+        },
+        {
+            "name": "BTU per minute",
+            "symbol": "Btu/min",
+            "factor": 17.5686251,
+            "offset": 0.0
+        },
+        {
+            "name": "BTU per second",
+            "symbol": "BTU/s",
+            "factor": 1054.1175060,
+            "offset": 0.0
+        },
+        {
+            "name": "calorie per second",
+            "symbol": "cal/s",
+            "factor": 4.1868,
+            "offset": 0.0
+        },
+        {
+            "name": "horsepower",
+            "symbol": "hp",
+            "factor": 745.699872,
+            "offset": 0.0
+        },
+        {
+            "name": "kilowatt",
+            "symbol": "kW",
+            "factor": 1000.0,
+            "offset": 0.0
+        },
+        {
+            "name": "megawatt",
+            "symbol": "MW",
+            "factor": 1000000.0,
+            "offset": 0.0
+        },
+        {
+            "name": "gigawatt",
+            "symbol": "GW",
+            "factor": 1000000000.0,
+            "offset": 0.0
+        },
+        {
+            "name": "terawatt",
+            "symbol": "TW",
+            "factor": 1000000000000.0,
+            "offset": 0.0
+        },
+        {
+            "name": "petawatt",
+            "symbol": "PW",
+            "factor": 1000000000000000.0,
+            "offset": 0.0
+        },
+        {
+            "name": "pound-feet per second",
+            "symbol": "lb/s",
+            "factor": 1.35581792,
+            "offset": 0.0
+        },
+        {
+            "name": "pound-feet per minute",
+            "symbol": "lb-ft/min",
+            "factor": 0.0225970,
+            "offset": 0.0
+        }
+    ]
+}

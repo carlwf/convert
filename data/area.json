@@ -1,0 +1,79 @@
+{
+    "category": "Area",
+    "description": "Area is a measurement of the two-dimensional surface area of an object.",
+    "baseunit": "meter²",
+    "units": [
+        {
+            "name": "meter²",
+            "symbol": "m²",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "centimeter²",
+            "symbol": "cm²",
+            "factor": 0.0001,
+            "offset": 0
+        },
+        {
+            "name": "millimeter²",
+            "symbol": "mm²",
+            "factor": 1e-6,
+            "offset": 0
+        },
+        {
+            "name": "kilometer²",
+            "symbol": "km²",
+            "factor": 1000000,
+            "offset": 0
+        },
+        {
+            "name": "hectare",
+            "symbol": "ha",
+            "factor": 10000,
+            "offset": 0
+        },
+        {
+            "name": "inch²",
+            "symbol": "in²",
+            "factor": 0.00064516,
+            "offset": 0
+        },
+        {
+            "name": "foot²",
+            "symbol": "ft²",
+            "factor": 0.092903,
+            "offset": 0
+        },
+        {
+            "name": "yard²",
+            "symbol": "yd²",
+            "factor": 0.836127,
+            "offset": 0
+        },
+        {
+            "name": "mile²",
+            "symbol": "mi²",
+            "factor": 2.59e+6,
+            "offset": 0
+        },
+        {
+            "name": "acre",
+            "symbol": "ac",
+            "factor": 4046.8564224,
+            "offset": 0
+        },
+        {
+            "name": "nautical mile²",
+            "symbol": "nmi²",
+            "factor": 3.43e+6,
+            "offset": 0
+        },
+        {
+            "name": "are",
+            "symbol": "a",
+            "factor": 100,
+            "offset": 0
+        }
+    ]
+}

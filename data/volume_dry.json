@@ -1,0 +1,43 @@
+{
+    "category": "Volume (dry)",
+    "description": "Dry volume is the volume held by a container",
+    "baseunit": "liter",
+    "units": [
+        {
+            "name": "liter",
+            "symbol": "l",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "barrel",
+            "symbol": "bbl",
+            "factor": 115.6271292,
+            "offset": 0
+        },
+        {
+            "name": "bushel",
+            "symbol": "bu",
+            "factor": 35.23907016688,
+            "offset": 0
+        },
+        {
+            "name": "peck",
+            "symbol": "",
+            "factor": 8.809768,
+            "offset": 0
+        },
+        {
+            "name": "pint",
+            "symbol": "pt",
+            "factor": 0.5506105,
+            "offset": 0
+        },
+        {
+            "name": "quart",
+            "symbol": "qt",
+            "factor": 1.1012210,
+            "offset": 0
+        }
+    ]
+}

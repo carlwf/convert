@@ -1,0 +1,133 @@
+{
+    "category": "mass",
+    "description": "The mass of an object is the amount of matter that an object contains.",
+    "baseunit": "kilogram",
+    "units": [
+        {
+            "name": "kilogram",
+            "symbol": "kg",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "carat",
+            "symbol": "ct",
+            "factor": 0.0002,
+            "offset": 0
+        },
+        {
+            "name": "grain",
+            "symbol": "gr",
+            "factor": 0.00006479891,
+            "offset": 0
+        },
+        {
+            "name": "gram",
+            "symbol": "g",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "megagram",
+            "symbol": "Mg",
+            "factor": 1000000,
+            "offset": 0
+        },
+        {
+            "name": "microgram",
+            "symbol": "\u03BCg",
+            "factor": 1e-9,
+            "offset": 0
+        },
+        {
+            "name": "milligram",
+            "symbol": "mg",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "ounce",
+            "symbol": "oz",
+            "factor": 0.028349523125,
+            "offset": 0
+        },
+        {
+            "name": "pound",
+            "symbol": "lb",
+            "factor": 0.45359237,
+            "offset": 0
+        },
+        {
+            "name": "stone",
+            "symbol": "st",
+            "factor": 6.35029318,
+            "offset": 0
+        },
+        {
+            "name": "tonne",
+            "symbol": "t",
+            "factor": 1000,
+            "offset": 0
+        },
+        {
+            "name": "ton (metric)",
+            "symbol": "tonne",
+            "factor": 1000,
+            "offset": 0
+        },
+        {
+            "name": "ton (long)",
+            "symbol": "ton",
+            "factor": 1016.0469088,
+            "offset": 0
+        },
+        {
+            "name": "slug",
+            "symbol": "slug",
+            "factor": 14.5939029372,
+            "offset": 0
+        },
+        {
+            "name": "short ton",
+            "symbol": "ton (short)",
+            "factor": 907.18474,
+            "offset": 0
+        },
+        {
+            "name": "long ton",
+            "symbol": "ton (long)",
+            "factor": 1016.0469088,
+            "offset": 0
+        },
+        {
+            "name": "atomic mass unit",
+            "symbol": "u",
+            "factor": 1.660539040e-27,
+            "offset": 0
+        },
+        {
+            "name": "electron mass",
+            "symbol": "m_e",
+            "factor": 9.10938356e-31,
+            "offset": 0
+        },
+        {
+            "name": "proton mass",
+            "symbol": "m_p",
+            "factor": 1.67262192369e-27,
+            "offset": 0
+        },
+        {
+            "name": "neutron mass",
+            "symbol": "m_n",
+            "factor": 1.67492749804e-27,
+            "offset": 0
+        },
+        {
+            "name": "muon mass",
+            "symbol": "m_mu",
+            "factor": 1.883531594e-28,
+            "offset": 0
+        }
+    ]
+}

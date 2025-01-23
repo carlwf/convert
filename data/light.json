@@ -1,0 +1,31 @@
+{
+    "category": "Light",
+    "description": "Light is a type of electromagentic radiation.",
+    "baseunit": "lux",
+    "units": [
+        {
+            "name": "lux",
+            "symbol": "lx",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "foot-candle",
+            "symbol": "fc",
+            "factor": 10.764,
+            "offset": 0
+        },
+        {
+            "name": "flame",
+            "symbol": "flm",
+            "factor": 43.0556417,
+            "offset": 0
+        },
+        {
+            "name": "meter-candle",
+            "symbol": "mcd",
+            "factor": 1,
+            "offset": 0
+        }
+    ]
+}

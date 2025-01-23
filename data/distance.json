@@ -1,0 +1,139 @@
+{
+	"category": "Distance",
+	"description": "Distance is a measure of the lenghth of space between two points or objects.",
+	"baseunit": "meter",
+	"units": [
+		{
+			"name": "meter",
+			"symbol": "m",
+			"factor": 1,
+			"offset": 0
+		},
+		{
+			"name": "kilometer",
+			"symbol": "km",
+			"factor": 1000,
+			"offset": 0
+		},
+		{
+			"name": "centimeter",
+			"symbol": "cm",
+			"factor": 0.01,
+			"offset": 0
+		},
+		{
+			"name": "millimeter",
+			"symbol": "mm",
+			"factor": 0.001,
+			"offset": 0
+		},
+		{
+			"name": "micrometer",
+			"symbol": "µm",
+			"factor": 0.000001,
+			"offset": 0
+		},
+		{
+			"name": "nanometer",
+			"symbol": "nm",
+			"factor": 0.000000001,
+			"offset": 0
+		},
+		{
+			"name": "mile",
+			"symbol": "mi",
+			"factor": 1609.344,
+			"offset": 0
+		},
+		{
+			"name": "yard",
+			"symbol": "yd",
+			"factor": 0.9144,
+			"offset": 0
+		},
+		{
+			"name": "foot",
+			"symbol": "ft",
+			"factor": 0.3048,
+			"offset": 0
+		},
+		{
+			"name": "inch",
+			"symbol": "in",
+			"factor": 0.0254,
+			"offset": 0
+		},
+		{
+			"name": "mil",
+			"symbol": "mil",
+			"factor": 0.0000254,
+			"offset": 0
+		},
+		{
+			"name": "lightyear",
+			"symbol": "ly",
+			"factor": 9460730472580800,
+			"offset": 0
+		},
+		{
+			"name": "parsec",
+			"symbol": "pc",
+			"factor": 30856775814913673.2,
+			"offset": 0
+		},
+		{
+			"name": "dekameter",
+			"symbol": "dm",
+			"factor": 10,
+			"offset": 0
+		},
+		{
+			"name": "decimeter",
+			"symbol": "dm",
+			"factor": 0.1,
+			"offset": 0
+		},
+		{
+			"name": "furlong",
+			"symbol": "fur",
+			"factor": 201.168,
+			"offset": 0
+		},
+		{
+			"name": "hectometer",
+			"symbol": "hm",
+			"factor": 100,
+			"offset": 0
+		},
+		{
+			"name": "astronomical unit",
+			"symbol": "au",
+			"factor": 149597870700,
+			"offset": 0
+		},
+		{
+			"name": "nautical mile",
+			"symbol": "nmi",
+			"factor": 1852,
+			"offset": 0
+		},
+		{
+			"name": "fermi",
+			"symbol": "fm",
+			"factor": 1e-15,
+			"offset": 0
+		},
+		{
+			"name": "angstrom",
+			"symbol": "Å",
+			"factor": 1e-10,
+			"offset": 0
+		},
+		{
+			"name": "micron",
+			"symbol": "µm",
+			"factor": 0.000001,
+			"offset": 0
+		}
+	]
+}

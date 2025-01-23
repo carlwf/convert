@@ -1,0 +1,79 @@
+{
+    "category": "Torque",
+    "description": "Torque is a measure of force or energy that is exerted on an object by a force or an applied torque.",
+    "baseunit": "Newton-meter",
+    "units": [
+        {
+            "name": "Newton-meter",
+            "symbol": "Nm",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "dyne-centimeter",
+            "symbol": "dyn.cm",
+            "factor": 0.0000001,
+            "offset": 0
+        },
+        {
+            "name": "gram-force centimeter",
+            "symbol": "gf.cm",
+            "factor": 0.0000981,
+            "offset": 0
+        },
+        {
+            "name": "kilogram-force meter",
+            "symbol": "kgf.m",
+            "factor": 9.80665,
+            "offset": 0
+        },
+        {
+            "name": "kilonewton-meter",
+            "symbol": "kNm",
+            "factor": 1000,
+            "offset": 0
+        },
+        {
+            "name": "meganewton-meter",
+            "symbol": "MNm",
+            "factor": 1000000,
+            "offset": 0
+        },
+        {
+            "name": "micronewton-meter",
+            "symbol": "µNm",
+            "factor": 0.000001,
+            "offset": 0
+        },
+        {
+            "name": "millinewton-meter",
+            "symbol": "mNm",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "ounce-force foot",
+            "symbol": "ozf.ft",
+            "factor": 0.0847386,
+            "offset": 0
+        },
+        {
+            "name": "ounce-force inch",
+            "symbol": "ozf.in",
+            "factor": 0.000070615,
+            "offset": 0
+        },
+        {
+            "name": "pound-force foot",
+            "symbol": "lbf.ft",
+            "factor": 1.3558200,
+            "offset": 0
+        },
+        {
+            "name": "pound-force inch",
+            "symbol": "lbf.in",
+            "factor": 0.1129848,
+            "offset": 0
+        }
+    ]
+}

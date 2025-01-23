@@ -1,0 +1,127 @@
+{
+    "category": "speed",
+    "description": "Speed is the rate of change of distance over time.",
+    "baseunit": "meters per second",
+    "units": [
+        {
+            "name": "meters per second",
+            "symbol": "m/s",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "speed of light",
+            "symbol": "C",
+            "factor": 299792458.0000000,
+            "offset": 0
+        },
+        {
+            "name": "centimeter per hour",
+            "symbol": "cm/h",
+            "factor": 0.0000028,
+            "offset": 0
+        },
+        {
+            "name": "centimeter per minute",
+            "symbol": "cm/min",
+            "factor": 0.0000166667,
+            "offset": 0
+        },
+        {
+            "name": "centimeter per second",
+            "symbol": "cm/s",
+            "factor": 0.01,
+            "offset": 0
+        },
+        {
+            "name": "foot per hour",
+            "symbol": "ft/h",
+            "factor": 0.0000847,
+            "offset": 0
+        },
+        {
+            "name": "foot per minute",
+            "symbol": "ft/min",
+            "factor": 0.00508,
+            "offset": 0
+        },
+        {
+            "name": "foot per second",
+            "symbol": "ft/s",
+            "factor": 0.3048,
+            "offset": 0
+        },
+        {
+            "name": "kilometer per hour",
+            "symbol": "km/h",
+            "factor": 0.277778,
+            "offset": 0
+        },
+        {
+            "name": "kilometer per minute",
+            "symbol": "km/min",
+            "factor": 16.6666667,
+            "offset": 0
+        },
+        {
+            "name": "kilometer per second",
+            "symbol": "km/s",
+            "factor": 0.5144444,
+            "offset": 0
+        },
+        {
+            "name": "mach",
+            "symbol": "M",
+            "factor": 331.29,
+            "offset": 0
+        },
+        {
+            "name": "meter per hour",
+            "symbol": "m/h",
+            "factor": 0.000277778,
+            "offset": 0
+        },
+        {
+            "name": "meter per minute",
+            "symbol": "m/min",
+            "factor": 0.0166667,
+            "offset": 0
+        },
+        {
+            "name": "mile per hour",
+            "symbol": "mph",
+            "factor": 0.44704,
+            "offset": 0
+        },
+        {
+            "name": "mile per minute",
+            "symbol": "mpm",
+            "factor": 26.8224,
+            "offset": 0
+        },
+        {
+            "name": "mile per second",
+            "symbol": "mps",
+            "factor": 1.609344,
+            "offset": 0
+        },
+        {
+            "name": "knot",
+            "symbol": "kn",
+            "factor": 0.5144444,
+            "offset": 0
+        },
+        {
+            "name": "mach",
+            "symbol": "M",
+            "factor": 343.2,
+            "offset": 0
+        },
+        {
+            "name": "speed of sound",
+            "symbol": "S",
+            "factor": 343.2,
+            "offset": 0
+        }
+    ]
+}

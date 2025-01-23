@@ -1,0 +1,91 @@
+{
+    "category": "Time",
+    "description": "Time is a measured period during which an object, action or condition exists or is capable of existing.",
+    "baseunit": "second",
+    "units": [
+        {
+            "name": "second",
+            "symbol": "s",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "century",
+            "symbol": "c",
+            "factor": 315360000,
+            "offset": 0
+        },
+        {
+            "name": "day",
+            "symbol": "d",
+            "factor": 86400,
+            "offset": 0
+        },
+        {
+            "name": "decade",
+            "symbol": "",
+            "factor": 315360000,
+            "offset": 0
+        },
+        {
+            "name": "fortnight",
+            "symbol": "",
+            "factor": 1209600,
+            "offset": 0
+        },
+        {
+            "name": "hour",
+            "symbol": "h",
+            "factor": 3600,
+            "offset": 0
+        },
+        {
+            "name": "leap year",
+            "symbol": "",
+            "factor": 31622400,
+            "offset": 0
+        },
+        {
+            "name": "millenium",
+            "symbol": "",
+            "factor": 3153600000,
+            "offset": 0
+        },
+        {
+            "name": "millisecond",
+            "symbol": "ms",
+            "factor": 0.001,
+            "offset": 0
+        },
+        {
+            "name": "minute",
+            "symbol": "min",
+            "factor": 60,
+            "offset": 0
+        },
+        {
+            "name": "month",
+            "symbol": "mo",
+            "factor": 2592000,
+            "offset": 0
+        },
+        {
+            "name": "nanosecond",
+            "symbol": "ns",
+            "factor": 0.000000001,
+            "offset": 0
+        },
+        {
+            "name": "week",
+            "symbol": "wk",
+            "factor": 604800,
+            "offset": 0
+        },
+        {
+            "name": "year",
+            "symbol": "yr",
+            "factor": 31536000,
+            "offset": 0
+        }
+    ]
+}

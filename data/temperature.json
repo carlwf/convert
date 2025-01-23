@@ -1,0 +1,31 @@
+{
+    "category": "Temperature",
+    "description": "Temperature is a measure of the energy contained in a system or the average kinetic energy of a moving object.",
+    "baseunit": "Fahrenheit",
+    "units": [
+        {
+            "name": "Fahrenheit",
+            "symbol": "°F",
+            "factor": 1,
+            "offset": 0
+        },
+        {
+            "name": "Celsius",
+            "symbol": "°C",
+            "factor": 1.8,
+            "offset": 32
+        },
+        {
+            "name": "Kelvin",
+            "symbol": "K",
+            "factor": 1.8,
+            "offset": -459.67
+        },
+        {
+            "name": "Rankine",
+            "symbol": "°R",
+            "factor": 1,
+            "offset": 459.67
+        }
+    ]
+}
