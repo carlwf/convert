@@ -7,3 +7,18 @@ A Go package for converting between different units of measurement.
 ```
 go get github.com/carlwf/convert
 ```
+
+## Usage
+
+Basic Conversion example:
+
+```
+val, err := convert.Value(123.45,"Celsius","Fahrenheit")
+```
+
+
+
+
+
+
+
