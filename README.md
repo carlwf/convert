@@ -16,7 +16,9 @@ Basic Conversion example:
 val, err := convert.Value(123.45,"Celsius","Fahrenheit")
 ```
 JSON example:
-``` jasonbytes, err := convert.ToJson((123.45,"Celsius","Fahrenheit") ```
+``` 
+jsonbytes, err := convert.ToJson((123.45,"Celsius","Fahrenheit")
+```
 
 
 
